@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
+I am pursuing MS (Research) in computer science and engineering at IIT Indore.
+- 🔭 I’m currently working on deep learning 
+- 🌱 I’m currently learning ...
 <!--
 **saumya0303/saumya0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

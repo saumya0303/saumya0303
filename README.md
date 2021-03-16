@@ -4,6 +4,8 @@ I'm pursuing MS (Research) in computer science and engineering at IIT Indore.
 -  I’m currently learning adversarial defences on audio.
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/saumya-mishra03/)
 -  I’m looking to collaborate on Open Source and/or adversarial attack and defenses on audio.
+
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumya0303&count_private=true)
 <!--
 **saumya0303/saumya0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

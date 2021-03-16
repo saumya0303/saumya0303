@@ -1,9 +1,9 @@
 ### Hi I'm Saumya 👋
 I'm pursuing MS (Research) in computer science and engineering at IIT Indore.
--  🔭 I’m currently working on adversarial learning in the audio and audio-visual domain.
-- 🌱 I’m currently learning adversarial defences on audio.
--  🤔 I’m looking for help with psychoacoustics concept in audio.
--  📫 How to reach me: Linkedin - https://www.linkedin.com/in/saumya-mishra03/
+-  🔭  I’m currently working on adversarial learning in the audio and audio-visual domain.
+- 🌱  I’m currently learning adversarial defences on audio.
+-  🤔  I’m looking for help with psychoacoustics concept in audio.
+-  📫  How to reach me: Linkedin - https://www.linkedin.com/in/saumya-mishra03/
 <!--
 **saumya0303/saumya0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

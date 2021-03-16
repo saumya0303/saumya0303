@@ -1,5 +1,5 @@
 ### Hi I'm Saumya 👋
-I am pursuing MS (Research) in computer science and engineering at IIT Indore.
+I'm pursuing MS (Research) in computer science and engineering at IIT Indore.
 -  🔭 I’m currently working on adversarial learning in the audio and audio-visual domain.
 - 🌱 I’m currently learning adversarial defences on audio.
 -  🤔 I’m looking for help with psychoacoustics concept in audio.

@@ -2,8 +2,9 @@
 I'm pursuing MS (Research) in computer science and engineering at IIT Indore.
 -  I’m currently working on adversarial learning in the audio and audio-visual domain.
 -  I’m currently learning adversarial defences on audio.
+-   I’m looking to collaborate on Open Source and/or adversarial attack and defenses on audio.
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/saumya-mishra03/)
--  I’m looking to collaborate on Open Source and/or adversarial attack and defenses on audio.
+
 
 
 <!--
